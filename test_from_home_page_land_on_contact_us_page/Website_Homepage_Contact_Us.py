@@ -102,7 +102,6 @@ class NavigateFromWebsiteHomepageToContactUs(unittest.TestCase):
 
     def tearDown(self) -> None:
         self.driver.quit()
-    # TODO: cleaning
 
 
 if __name__ == '__main__':
